@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "packages/core/services/git-service.md",
+                "file": "packages/core/core/turn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-service"
+              "title": "turn"
             }
           }
         ]
@@ -170,15 +170,21 @@
   },
   "active": "a706c7f25a12a8fb",
   "lastOpenFiles": [
+    "packages/core/tools/mcp-tool.md",
+    "packages/core/services/shell-execution-service.md",
     "packages/core/services/file-discovery-service.md",
     "packages/core/services/content-generator.md",
-    "packages/core/ide/ide-context.md",
-    "packages/cli/ui/App.md",
-    "packages/cli/ui/components/shell-confirmation-dialog.md",
     "packages/cli/ui/components/InputPrompt.md",
+    "packages/cli/ui/components/tool-confirmation-message.md",
+    "packages/cli/ui/components/shell-confirmation-dialog.md",
+    "README.md",
     "packages/core/client.md",
     "packages/core/utils/fileUtils.md",
-    "packages/core/core/geminiChat.md",
-    "README.md"
+    "packages/core/tools/write-file.md",
+    "packages/core/tools/web-search-tool.md",
+    "packages/core/services/git-service.md",
+    "packages/core/ide/ide-context.md",
+    "packages/cli/ui/App.md",
+    "packages/core/core/geminiChat.md"
   ]
 }
